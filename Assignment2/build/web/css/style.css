@@ -1,0 +1,41 @@
+html {
+    min-height: 100%;
+}
+
+body {
+    margin-top: 50px;
+    text-align: center;
+    background-image: radial-gradient(circle, #3A4454, #53687E);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+input {
+    margin: 5px;
+}
+
+ul {
+    width: 50%;
+    padding: 0;
+    margin: 0 auto;
+    list-style: none;
+}
+
+table {
+    width: 85%;
+    margin: 0 auto;
+}
+
+h2 {
+    padding-top: 30px;
+}
+
+.card{
+    padding: 30px;
+    background-color: #6b4e71;
+    border-radius: 10%;
+    border-color: #6b4e81;
+    border-style: ridge;
+    margin: 0 auto;
+    width: 70%;
+}
